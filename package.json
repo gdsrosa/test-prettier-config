@@ -1,18 +1,19 @@
 {
-  "name": "my-prettier-config",
+  "name": "@gdsrosa/my-prettier-config",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "description": "This is my preferable config of Prettier on my personal projects",
+  "main": "index.json",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/gdsrosa/test-prettier-config.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "prettier",
+    "configuration",
+    "formatter"
+  ],
+  "author": "Gabriel Rosa <gabrieldsrosa@gmail.com>",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/gdsrosa/test-prettier-config/issues"
   },
